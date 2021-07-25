@@ -6,6 +6,12 @@ Creation-Date: 2020-10-09T06:08:59-04:00
 
 [stuff with the tag soundbot]
 
+Sun 25 Jul 2021 01:30:05 PM EDT
+
+https://gitlab.com/anarchyinstaller/installer
+https://wiki.archlinux.org/title/archiso
+https://gitlab.archlinux.org/archlinux/archiso/-/tree/master/configs/releng
+
 ===== [[+deadsampler|deadsampler]] =====
 a sample library organize/categorize/analysis thingy
 
