@@ -14,7 +14,7 @@ check issues with package installations;
 
 loop through a directory and do..something.
 {{{code: lang="sh" linenumbers="True"
-for dir in ~/apps/*;
+for dir in *.dsp;
   do 
      [ -d "$dir" ] && cd "$dir" && echo "Entering into $dir and installing packages"
   done;

@@ -5,6 +5,13 @@ Creation-Date: 2021-03-06T21:48:50-05:00
 ====== vim coc ======
 @vim @solargraph @ruby 
 
+{{{code: lang="sh" linenumbers="False"
+:CocInstall coc-solargraph
+:CocEnable
+}}}
+
+
+
 https://github.com/neoclide/coc.nvim
 
 https://github.com/neoclide/coc.nvim/wiki/Completion-with-sources
