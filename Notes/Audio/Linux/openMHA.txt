@@ -22,3 +22,14 @@ cmd=stop
 
 [[/openMHA_starting_guide.pdf]]
 
+
+====== compiling ======
+
+when compiling, you may see an error that looks like: 
+
+error: 'strncpy' output truncated before terminating nul copying as many bytes from a string as its length [-Werror=stringop-truncation]
+
+
+A quick workaround is to replace strncpy with memcpy or to disable the warning
+
+
