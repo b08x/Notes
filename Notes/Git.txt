@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-08-05T16:36:26-04:00
+
+====== Git ======
+Created Thursday 05 August 2021
+
+
+
+
+https://stackoverflow.com/a/10229202
+If you want to keep your changes associated with the detached HEAD
+Run git branch tmp - this will save your changes in a new branch called tmp.
+Run git checkout master
+If you would like to incorporate the changes you made into master, run git merge tmp from the master branch. 
+You should be on the master branch after running git checkout master.
