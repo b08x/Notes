@@ -5,8 +5,18 @@ Creation-Date: 2021-08-05T16:36:26-04:00
 ====== Git ======
 Created Thursday 05 August 2021
 
+====== links ======
+
+http://bunnyman.info/tag/git.html
+
+http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html
+
+http://gitready.com/advanced/2009/02/11/pull-with-rebase.html
+
+http://tednaleid.github.io/understanding-git/#2
 
 
+====== recover from detached head ======
 
 https://stackoverflow.com/a/10229202
 If you want to keep your changes associated with the detached HEAD
